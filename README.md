@@ -1,1 +1,0 @@
-# sample-bedrock-agentcore-runtime-cicd
